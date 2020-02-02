@@ -1,5 +1,3 @@
-<img src='../datasets/netflix_prediction/data_folder/images/netflix-q.jpg'>
-
 <h1>1. Business Problem </h1>
 
 <h2> 1.1 Problem Description </h2>
@@ -88,7 +86,7 @@ The given problem is a Recommendation problem. It can also be seen as a Regressi
 2. Try to provide some interpretability.
 
 # 3. Getting Started
-Start by downloading the project and run "StackOverFlow_Tag_Prediction.ipynb" file in ipython-notebook.
+Start by downloading the project and run "Netflix_Recommendation.ipynb" file in ipython-notebook.
 
 # 4. Prerequisites
 You need to have installed following softwares and libraries before running this project.
