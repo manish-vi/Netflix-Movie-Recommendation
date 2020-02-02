@@ -71,8 +71,7 @@ Dates have the format YYYY-MM-DD.
 
 <pre>
 For a given movie and user we need to predict the rating would be given by him/her to the movie. 
-The given problem is a Recommendation problem 
-It can also seen as a Regression problem 
+The given problem is a Recommendation problem. It can also be seen as a Regression problem 
 </pre>
 
 <h3> 2.2.2 Performance metric </h3>
@@ -87,3 +86,24 @@ It can also seen as a Regression problem
 
 1. Minimize RMSE.
 2. Try to provide some interpretability.
+
+# 3. Getting Started
+Start by downloading the project and run "StackOverFlow_Tag_Prediction.ipynb" file in ipython-notebook.
+
+# 4. Prerequisites
+You need to have installed following softwares and libraries before running this project.
+
+Python 3: https://www.python.org/downloads/
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
+
+# 5. Libraries
+* __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
+    * pip install scikit-learn
+    * conda install -c anaconda scikit-learn
+
+* __scipy:__ SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+    * pip install scipy
+    * conda install -c anaconda scipy
+    
+# 6. Authors
+• Manish Vishwakarma - Complete work
