@@ -93,8 +93,8 @@ Start by downloading the project and run "Netflix_Recommendation.ipynb" file in 
 # 4. Prerequisites
 You need to have installed following softwares and libraries before running this project.
 
-Python 3: https://www.python.org/downloads/
-Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
+ - Python 3: https://www.python.org/downloads/
+ - Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
 # 5. Libraries
 * __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
